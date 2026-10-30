@@ -1,0 +1,17 @@
+# Changelog
+
+All notable changes to Mod Kepp Hock Legacy are listed here.
+
+## [1.0] - 2026-10-30
+
+### Added
+- Initial release of Mod Kepp Hock Legacy.
+- ReShade preset configuration.
+- Vibrance effect settings.
+- Tonemap effect settings.
+- Curves effect settings.
+- Installation guide for GTA V Legacy.
+
+### Notes
+- Intended for Story Mode only.
+- Not tested on every PC configuration.
