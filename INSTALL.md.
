@@ -1,0 +1,26 @@
+Mod Kepp Hock Legacy — Installation
+
+Requirements
+
+- Grand Theft Auto V Legacy
+- Windows 10 / 11
+- ReShade compatible with the game
+
+Installation
+
+1. Install ReShade from the official website: https://reshade.me/
+2. Select the GTA V Legacy game executable.
+3. Select the graphics API detected for your installation.
+4. Install the shader effects required by the preset:
+   - Vibrance
+   - Tonemap
+   - Curves
+5. Copy "KeppHockLegacy.ini" into the game's ReShade preset folder.
+6. Open ReShade in Story Mode and select "KeppHockLegacy.ini".
+7. Enable the available effects and check the result.
+
+Important
+
+- This preset is intended for Story Mode only.
+- Do not use it in GTA Online.
+- The preset has not been tested on every PC configuration.
