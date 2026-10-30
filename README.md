@@ -1,10 +1,8 @@
-Mod Kepp Hock Legacy
+# Mod Kepp Hock Legacy
 
 A bright and vibrant visual preset for Grand Theft Auto V Legacy.
 
-Mod Kepp Hock Legacy is a community-made ReShade preset designed to enhance the visual atmosphere of GTA V Legacy.
-
-Features
+## Features
 
 - Bright and vibrant colors
 - Increased color saturation
@@ -12,33 +10,32 @@ Features
 - Warm visual atmosphere
 - Custom ReShade configuration
 
-Compatibility
+## Compatibility
 
-Component| Target
-Game| GTA V Legacy
-Platform| Windows 10 / 11
-Mode| Story Mode
-Version| 1.0
+| Component | Target |
+|---|---|
+| Game | GTA V Legacy |
+| Platform | Windows 10 / 11 |
+| Graphics API | DirectX 11 |
+| Mode | Story Mode only |
+| Version | 1.0 |
 
-Project Structure
+## Project Structure
 
-- "config/" — project settings
-- "reshade/" — ReShade preset
-- "docs/" — installation guide and changelog
-- "screenshots/" — before and after screenshots
+- `config/` — project settings
+- `reshade/` — ReShade preset
+- `docs/` — installation guide and changelog
+- `screenshots/` — screenshots
 
-Installation
+## Installation
 
-See the "Installation Guide" (docs/INSTALL.md).
+See [Installation Guide](docs/INSTALL.md).
 
-Changelog
+## Changelog
 
-See "CHANGELOG.md" (docs/CHANGELOG.md).
+See [CHANGELOG.md](docs/CHANGELOG.md).
 
-Disclaimer
+## Disclaimer
 
 Unofficial community project. Not affiliated with Rockstar Games.
-
-Story Mode only.
-
-The preset has not yet been tested on every PC configuration. 
+For Story Mode only. Do not use in GTA Online. 
