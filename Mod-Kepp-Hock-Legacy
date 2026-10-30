@@ -1,0 +1,17 @@
+Mod-Kepp-Hock-Legacy/
+│
+├── README.md
+├── .gitignore
+│
+├── config/
+│   └── settings.ini
+│
+├── reshade/
+│   └── KeppHockLegacy.ini
+│
+├── docs/
+│   ├── INSTALL.md
+│   └── CHANGELOG.md
+│
+└── screenshots/
+    └── README.md
